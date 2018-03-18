@@ -1,1 +1,1 @@
-# Courses
+# Stanford CS20
